@@ -1,5 +1,5 @@
 ## Autonomous UAV Landing System
-### Khattat Abdallahi  
+
 
 #Research Goal
 
